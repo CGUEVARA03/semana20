@@ -3,7 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Usuario/Desktop/programacion 2 proyectos/project392/app/src/main/res/drawable/cart_background.xml" value="0.1" />
+        <entry key="..\:/Users/Usuario/Desktop/programacion 2 proyectos/project392/app/src/main/res/drawable/search_background.xml" value="0.1" />
+        <entry key="..\:/Users/Usuario/Desktop/programacion 2 proyectos/project392/app/src/main/res/drawable/viewholder_popular.xml" value="0.1" />
         <entry key="..\:/Users/Usuario/Desktop/programacion 2 proyectos/project392/app/src/main/res/layout/activity_cart_list.xml" value="0.13243243243243244" />
+        <entry key="..\:/Users/Usuario/Desktop/programacion 2 proyectos/project392/app/src/main/res/layout/activity_intro.xml" value="0.1" />
+        <entry key="..\:/Users/Usuario/Desktop/programacion 2 proyectos/project392/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/Users/Usuario/Desktop/programacion 2 proyectos/project392/app/src/main/res/layout/activity_show_detail.xml" value="0.13243243243243244" />
+        <entry key="..\:/Users/Usuario/Desktop/programacion 2 proyectos/project392/app/src/main/res/layout/viewholder_cart.xml" value="0.13243243243243244" />
+        <entry key="..\:/Users/Usuario/Desktop/programacion 2 proyectos/project392/app/src/main/res/layout/viewholder_category.xml" value="0.13243243243243244" />
+        <entry key="..\:/Users/Usuario/Desktop/programacion 2 proyectos/project392/app/src/main/res/layout/viewholder_popular.xml" value="0.13243243243243244" />
       </map>
     </option>
   </component>

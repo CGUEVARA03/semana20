@@ -79,7 +79,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="16dp"
-                android:text="description"
+                android:text="descripcion"
                 android:textColor="#686767"
                 android:textSize="20sp"
                 android:textStyle="bold" />
